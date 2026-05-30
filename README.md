@@ -6,6 +6,26 @@ Give ChatGPT (or any MCP client) full control of your local machine — read and
 
 ---
 
+## Screenshots
+
+**1. Start the server — tunnel URL is printed automatically**
+
+![Terminal startup showing tunnel URL and MCP endpoint](docs/startup.png)
+
+**2. Paste the URL into ChatGPT**
+
+![ChatGPT connector setup screen with MCP URL filled in](docs/chatgpt-setup.png)
+
+**3. ChatGPT uses your tools**
+
+![ChatGPT conversation using read_file and run_command tools](docs/demo.png)
+
+**4. Web dashboard**
+
+![Web dashboard showing server status, tools list, and MCP URL](docs/dashboard.png)
+
+---
+
 ## How it works
 
 1. Run `chatgpt-local-mcp` (or `npm start`) in any folder
