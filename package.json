@@ -1,6 +1,6 @@
 {
   "name": "chatgpt-local-mcp",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Give ChatGPT (or any MCP client) agentic access to your local project folder — filesystem, terminal, git, processes, clipboard, archives and more — over a secure cloudflared tunnel. Folder-scoped by default for security.",
   "type": "module",
   "main": "src/server.js",
