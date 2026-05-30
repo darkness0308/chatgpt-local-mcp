@@ -10,19 +10,19 @@ Give ChatGPT (or any MCP client) full control of your local machine — read and
 
 **1. Start the server — tunnel URL is printed automatically**
 
-![Terminal startup showing tunnel URL and MCP endpoint](docs/startup.png)
+![Terminal startup showing tunnel URL and MCP endpoint](https://raw.githubusercontent.com/darkness0308/chatgpt-local-mcp/master/docs/startup.png)
 
 **2. Paste the URL into ChatGPT**
 
-![ChatGPT connector setup screen with MCP URL filled in](docs/chatgpt-setup.png)
+![ChatGPT connector setup screen with MCP URL filled in](https://raw.githubusercontent.com/darkness0308/chatgpt-local-mcp/master/docs/chatgpt-setup.png)
 
 **3. ChatGPT uses your tools**
 
-![ChatGPT conversation using read_file and run_command tools](docs/demo.png)
+![ChatGPT conversation using read_file and run_command tools](https://raw.githubusercontent.com/darkness0308/chatgpt-local-mcp/master/docs/demo.png)
 
 **4. Web dashboard**
 
-![Web dashboard showing server status, tools list, and MCP URL](docs/dashboard.png)
+![Web dashboard showing server status, tools list, and MCP URL](https://raw.githubusercontent.com/darkness0308/chatgpt-local-mcp/master/docs/dashboard.png)
 
 ---
 
