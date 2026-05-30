@@ -5,7 +5,7 @@
   "type": "module",
   "main": "src/server.js",
   "bin": {
-    "chatgpt-local-mcp": "./bin/cli.js"
+    "chatgpt-local-mcp": "bin/cli.js"
   },
   "scripts": {
     "start": "node scripts/start.js",
@@ -15,10 +15,12 @@
     "serve": "node src/server.js",
     "dev": "node --watch src/server.js"
   },
+  "license": "MIT",
   "files": [
     "bin",
     "scripts",
-    "src"
+    "src",
+    "LICENSE"
   ],
   "keywords": [
     "mcp",
